@@ -1,6 +1,6 @@
 ﻿namespace AdventOfCode.Day1;
 
-public class Mission1
+public class Trebuchet
 {
     public int GetCombinedCalibrationValue()
     {
